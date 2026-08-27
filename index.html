@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="bn">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0f172a">
+<title>Govt Job Tracker — Live Government Exam Updates</title>
+<style>
+:root{--bg:#f6f8fc;--card:#fff;--text:#111827;--muted:#64748b;--line:#e2e8f0;--blue:#2563eb;--dark:#0f172a;--red:#dc2626;--green:#15803d;--amber:#b45309;--purple:#7c3aed}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",sans-serif;background:var(--bg);color:var(--text)}
+a{color:inherit}.wrap{max-width:1180px;margin:auto;padding:0 16px}
+header{background:linear-gradient(135deg,#0b1220,#1d4ed8);color:#fff;padding:28px 0 22px;box-shadow:0 8px 30px #0f172a22}.brand{font-size:29px;font-weight:900}.sub{opacity:.88;margin-top:5px}.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}.action{display:inline-flex;align-items:center;justify-content:center;text-decoration:none;padding:10px 14px;border-radius:11px;font-weight:800;background:#fff;color:#111827}.action.dark{background:#111827;color:#fff;border:1px solid #ffffff33}.action small{display:block;font-weight:500;opacity:.75;margin-left:6px}
+.controls{display:grid;grid-template-columns:1.7fr 1fr 1fr;gap:10px;margin-top:15px}input,select{width:100%;padding:13px 14px;border:0;border-radius:12px;font-size:15px;outline:none}.tabs{display:flex;gap:8px;overflow:auto;padding:17px 0 3px}.tab{border:1px solid #ffffff3d;background:#ffffff14;color:#fff;padding:9px 12px;border-radius:999px;white-space:nowrap;cursor:pointer;font-weight:750}.tab.active{background:#fff;color:#111827}
+main{padding:22px 0}.info{display:grid;grid-template-columns:1.6fr 1fr;gap:14px;margin-bottom:18px}.notice,.stats{background:var(--card);border:1px solid var(--line);border-radius:15px;padding:15px}.notice{color:var(--muted);font-size:13px;line-height:1.55}.stats{display:flex;align-items:center;justify-content:space-between;gap:10px}.stat strong{font-size:24px;display:block}.stat span{font-size:12px;color:var(--muted)}
+.title{display:flex;justify-content:space-between;align-items:end;margin:8px 0 14px}.title h2{margin:0;font-size:21px}.count{color:var(--muted);font-size:13px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px}.card{background:#fff;border:1px solid var(--line);border-radius:17px;padding:17px;box-shadow:0 5px 20px #0f172a0a}.card.active{border:2px solid #ef4444;background:#fffafa}.tag{display:inline-block;padding:6px 9px;border-radius:99px;font-size:11px;font-weight:900}.active-tag{background:#fee2e2;color:#b91c1c}.announced-tag{background:#ede9fe;color:#6d28d9}.expected-tag{background:#fef3c7;color:#a16207}.upcoming-tag{background:#ffedd5;color:#c2410c}.exam-tag{background:#dbeafe;color:#1d4ed8}.result-tag{background:#dcfce7;color:#15803d}.closed-tag{background:#e2e8f0;color:#475569}.name{font-size:18px;font-weight:850;margin:10px 0 4px;line-height:1.3}.org{font-size:13px;color:var(--muted)}.chips{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0}.chip{background:#f1f5f9;border-radius:8px;padding:6px 8px;font-size:12px}.days{font-weight:900;color:var(--red);margin:8px 0}.buttons{display:flex;gap:8px;margin-top:15px}.btn{flex:1;text-align:center;text-decoration:none;padding:10px;border-radius:10px;font-weight:800;font-size:13px;background:#111827;color:#fff}.btn.secondary{background:#eef2ff;color:#3730a3}.verify{font-size:11px;color:var(--green);font-weight:800}.empty{padding:32px;text-align:center;color:var(--muted);background:#fff;border:1px dashed var(--line);border-radius:15px;grid-column:1/-1}footer{padding:32px 16px;color:var(--muted);font-size:12px;text-align:center}.updated{font-size:12px;color:var(--muted)}
+@media(max-width:800px){.controls,.info{grid-template-columns:1fr}.brand{font-size:24px}.stats{min-height:100px}}
+</style></head>
+<body>
+<header><div class="wrap">
+<div class="brand">🇮🇳 Govt Job Tracker</div>
+<div class="sub">Government job forms, announced exams & expected upcoming recruitment — 10th • 12th • Graduation • ITI • Diploma</div>
+<div class="actions">
+<a class="action" href="https://github.com/dipannitadeb20/exam-updates/actions/workflows/auto-update.yml" target="_blank">🔄 Update Now <small>GitHub Actions</small></a>
+<a class="action dark" href="https://github.com/dipannitadeb20/exam-updates" target="_blank">GitHub Repository</a>
+</div>
+<div class="controls"><input id="q" placeholder="🔎 Search exam, job, department..."><select id="qual"><option value="">সব Qualification</option><option>10th Pass</option><option>12th Pass</option><option>Graduation</option><option>ITI / Technical</option><option>Diploma</option></select><select id="cat"><option value="">সব বিভাগ</option></select></div>
+<div class="tabs" id="tabs"></div></div></header>
+<main><div class="wrap">
+<div class="info"><div class="notice"><b>How updates work:</b> 🔴 ACTIVE = official application window is open. 🟣 ANNOUNCED = official recruitment/notice exists but not necessarily open. 🟠 EXPECTED = calendar/planning or next-cycle tracking; date is not guaranteed. 🔵 EXAM = exam/admit-card stage. 🟢 RESULT = result/selection stage. Always open the official notice before applying.</div><div class="stats"><div class="stat"><strong id="activeCount">0</strong><span>Active forms</span></div><div class="stat"><strong id="totalCount">0</strong><span>Tracked jobs</span></div><div class="stat"><strong id="checkedDate">—</strong><span>Last data check</span></div></div></div>
+<div class="title"><h2 id="heading">🔴 ACTIVE FORMS</h2><span class="count" id="count"></span></div>
+<div id="jobs" class="grid"></div>
+</div></main>
+<footer>Govt Job Tracker • Data is collected from public official sources. Coverage is broad, not mathematically exhaustive. Verify eligibility, vacancy, fee and dates on the official notice.</footer>
+<script>
+const statuses=["ACTIVE","ANNOUNCED","EXPECTED","UPCOMING","EXAM","RESULT","CLOSED"];
+const labels={ACTIVE:"🔴 ACTIVE FORMS",ANNOUNCED:"🟣 ANNOUNCED",EXPECTED:"🟠 EXPECTED / NEXT",UPCOMING:"🟡 UPCOMING",EXAM:"🔵 EXAM / ADMIT CARD",RESULT:"🟢 RESULT",CLOSED:"⚫ CLOSED"};
+const cls={ACTIVE:"active-tag",ANNOUNCED:"announced-tag",EXPECTED:"expected-tag",UPCOMING:"upcoming-tag",EXAM:"exam-tag",RESULT:"result-tag",CLOSED:"closed-tag"};
+let jobs=[],current="ACTIVE";
+const tabs=document.getElementById("tabs");
+tabs.innerHTML=statuses.map((x,i)=>`<button class="tab ${i===0?"active":""}" data-status="${x}">${labels[x]}</button>`).join("");
+tabs.onclick=e=>{const b=e.target.closest(".tab");if(!b)return;document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active"));b.classList.add("active");current=b.dataset.status;render()};
+function daysLeft(last){if(!last)return"";const d=Math.ceil((new Date(last+"T23:59:59")-new Date())/86400000);return d>=0?`⏳ ${d} day${d===1?"":"s"} left`:""}
+function escapeHtml(s){return String(s??"").replace(/[&<>\"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]))}
+function render(){
+ const q=document.getElementById("q").value.toLowerCase(),qual=document.getElementById("qual").value,cat=document.getElementById("cat").value;
+ const arr=jobs.filter(j=>j.status===current).filter(j=>!q||JSON.stringify(j).toLowerCase().includes(q)).filter(j=>!qual||(j.qualifications||[]).includes(qual)).filter(j=>!cat||j.category===cat);
+ document.getElementById("heading").textContent=labels[current];document.getElementById("count").textContent=arr.length+" jobs";
+ document.getElementById("jobs").innerHTML=arr.length?arr.map(j=>`<article class="card ${j.status==="ACTIVE"?"active":""}"><span class="tag ${cls[j.status]}">${labels[j.status]}</span><div class="name">${escapeHtml(j.title)}</div><div class="org">${escapeHtml(j.organization)} · ${escapeHtml(j.category)}</div><div class="chips">${(j.qualifications||[]).map(x=>`<span class="chip">${escapeHtml(x)}</span>`).join("")} ${j.verified?'<span class="chip verify">✓ Official source</span>':''}</div><div class="chips"><span class="chip">Start: ${escapeHtml(j.start||"—")}</span><span class="chip">Last: ${escapeHtml(j.last||"—")}</span></div>${j.status==="ACTIVE"?`<div class="days">${daysLeft(j.last)}</div>`:""}<div class="org">${escapeHtml(j.note||"")}</div><div class="buttons"><a class="btn" href="${j.apply||j.source}" target="_blank" rel="noopener">${j.status==="ACTIVE"?"Apply Online":"View Official"}</a><a class="btn secondary" href="${j.source}" target="_blank" rel="noopener">Source</a></div></article>`).join(""): `<div class="empty">এই filter-এ কোনো ${labels[current]} পাওয়া যায়নি।</div>`;
+}
+document.getElementById("q").oninput=render;document.getElementById("qual").onchange=render;document.getElementById("cat").onchange=render;
+fetch("jobs.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{jobs=d.jobs||[];document.getElementById("activeCount").textContent=jobs.filter(j=>j.status==="ACTIVE").length;document.getElementById("totalCount").textContent=jobs.length;document.getElementById("checkedDate").textContent=d.today||d.updated_at?.slice(0,10)||"—";const cats=[...new Set(jobs.map(j=>j.category).filter(Boolean))].sort();document.getElementById("cat").innerHTML='<option value="">সব বিভাগ</option>'+cats.map(c=>`<option>${escapeHtml(c)}</option>`).join("");render()}).catch(()=>{document.getElementById("jobs").innerHTML='<div class="empty">jobs.json পাওয়া যায়নি। GitHub repository-তে file আছে কি না দেখুন।</div>'});
+</script></body></html>
