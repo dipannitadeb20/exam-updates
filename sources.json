@@ -1,0 +1,45 @@
+{
+  "last_checked": "2026-08-27",
+  "sources": [
+    {
+      "name": "SSC",
+      "url": "https://ssc.gov.in/",
+      "type": "official"
+    },
+    {
+      "name": "RRB",
+      "url": "https://www.rrbcdg.gov.in/",
+      "type": "official"
+    },
+    {
+      "name": "SBI Careers",
+      "url": "https://sbi.bank.in/web/careers/current-openings",
+      "type": "official"
+    },
+    {
+      "name": "IBPS",
+      "url": "https://www.ibps.in/",
+      "type": "official"
+    },
+    {
+      "name": "WBPRB",
+      "url": "https://prb.wb.gov.in/",
+      "type": "official"
+    },
+    {
+      "name": "India Post GDS",
+      "url": "https://indiapostgdsonline.gov.in/",
+      "type": "official"
+    },
+    {
+      "name": "MoEFCC",
+      "url": "https://moef.gov.in/",
+      "type": "official"
+    },
+    {
+      "name": "AIIMS Exams",
+      "url": "https://www.aiimsexams.ac.in/",
+      "type": "official"
+    }
+  ]
+}
