@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T06:03:31+00:00",
+  "updated_at": "2026-08-28T18:58:02+00:00",
   "today": "2026-08-28",
   "jobs": [
     {
@@ -2702,6 +2702,38 @@
       "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
       "source": "https://sbi.bank.in/documents/77530/52947104/04042025_SCO_7_SELECT_LIST_OFFICERS.pdf/9385b570-dda8-788d-7457-5b34d12f7262?t=1743774291486",
       "apply": "https://sbi.bank.in/documents/77530/52947104/04042025_SCO_7_SELECT_LIST_OFFICERS.pdf/9385b570-dda8-788d-7457-5b34d12f7262?t=1743774291486",
+      "verified": true,
+      "checked": "2026-08-28"
+    },
+    {
+      "title": "IMPORTANT ANNOUNCEMENT REGARDING WEST BENGAL JUDICIAL SERVICE (FINAL) EXAMINATION, 2024 ADVT. NO. 19/2023",
+      "organization": "WBPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "RESULT",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://psc.wb.gov.in/Download?param1=An_20260828142819_Important_announcement_WBJS(Final)_2023.pdf¶m2=advertisement",
+      "apply": "https://psc.wb.gov.in/Download?param1=An_20260828142819_Important_announcement_WBJS(Final)_2023.pdf¶m2=advertisement",
+      "verified": true,
+      "checked": "2026-08-28"
+    },
+    {
+      "title": "IMPORTANT ANNOUNCEMENT REGARDING ADMIT CARD OF WEST BENGAL JUDICIAL SERVICE (PRELIMINARY) EXAMINATION, 2024 ADVT. NO. 9/2024",
+      "organization": "WBPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "RESULT",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://psc.wb.gov.in/Download?param1=An_20260828142524_Important_announcement_Admitcard_WBJS(Preli)_2024.pdf¶m2=advertisement",
+      "apply": "https://psc.wb.gov.in/Download?param1=An_20260828142524_Important_announcement_Admitcard_WBJS(Preli)_2024.pdf¶m2=advertisement",
       "verified": true,
       "checked": "2026-08-28"
     }
