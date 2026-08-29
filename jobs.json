@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T09:19:44+00:00",
+  "updated_at": "2026-08-29T14:39:35+00:00",
   "today": "2026-08-29",
   "jobs": [
     {
@@ -2750,6 +2750,566 @@
       "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
       "source": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-15/apply",
       "apply": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-15/apply",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Advertisements",
+      "organization": "UPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "ANNOUNCED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/recruitment/recruitment-advertisement",
+      "apply": "https://www.upsc.gov.in/recruitment/recruitment-advertisement",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Status of Lateral Recruitment Cases (Advertisement-wise)",
+      "organization": "UPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "ANNOUNCED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/recruitment/lateral-recruitments",
+      "apply": "https://www.upsc.gov.in/recruitment/lateral-recruitments",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Online Recruitment Application (ORA)",
+      "organization": "UPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "ANNOUNCED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://upsconline.nic.in/ora/",
+      "apply": "https://upsconline.nic.in/ora/",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Status of Recruitment Cases (Advertisement-wise)",
+      "organization": "UPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "ANNOUNCED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/recruitment/status-recruitment-cases-advertisementwise",
+      "apply": "https://www.upsc.gov.in/recruitment/status-recruitment-cases-advertisementwise",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Recruitment Tests",
+      "organization": "UPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "ANNOUNCED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/recruitment/recruitment-test",
+      "apply": "https://www.upsc.gov.in/recruitment/recruitment-test",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Recruitment Requisition",
+      "organization": "UPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "ITI / Technical"
+      ],
+      "status": "ANNOUNCED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/recruitment/recruitment-requisition",
+      "apply": "https://www.upsc.gov.in/recruitment/recruitment-requisition",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Recruitment cases kept on hold on account of Pending Litigations",
+      "organization": "UPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "ITI / Technical"
+      ],
+      "status": "ANNOUNCED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/recruitment/recruitment-cases-kept-hold-account-pending-litigations",
+      "apply": "https://www.upsc.gov.in/recruitment/recruitment-cases-kept-hold-account-pending-litigations",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Important instructions : Civil Services (Main) Examination, 2026",
+      "organization": "UPSC",
+      "category": "UPSC / Defence",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/sites/default/files/CSME_2026_Ticker_Eng_17082026.pdf",
+      "apply": "https://www.upsc.gov.in/sites/default/files/CSME_2026_Ticker_Eng_17082026.pdf",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Notice regarding change in recruitment process for six (06) posts advertised vide Advt. No. 13-2025",
+      "organization": "UPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "ANNOUNCED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/sites/default/files/NoticeCancellation-06-Posts-Advt-13-25-Engl-200826.pdf",
+      "apply": "https://www.upsc.gov.in/sites/default/files/NoticeCancellation-06-Posts-Advt-13-25-Engl-200826.pdf",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Addendum Notice: 06 Posts Deputy Central Intelligence Officer (DCIO) (Technical), Ministry of Home Affairs",
+      "organization": "UPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/06 Posts Deputy Central Intelligence Officer (DCIO) (Technical), Ministry of Home Affairs/Addendum Notice",
+      "apply": "https://www.upsc.gov.in/whats-new/06 Posts Deputy Central Intelligence Officer (DCIO) (Technical), Ministry of Home Affairs/Addendum Notice",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Advertisement No.52 - 2026 (Special)",
+      "organization": "UPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "ANNOUNCED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/52 - 2026 (Special)",
+      "apply": "https://www.upsc.gov.in/whats-new/52 - 2026 (Special)",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Addendum Notice: 04 posts of Assistant Director Grade-II (IEDS) (Leather & Footwear) in Ministry of MSME",
+      "organization": "UPSC",
+      "category": "Clerk / Assistant",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/04 posts of Assistant Director Grade-II (IEDS) (Leather & Footwear) in Ministry of MSME/Addendum Notice",
+      "apply": "https://www.upsc.gov.in/whats-new/04 posts of Assistant Director Grade-II (IEDS) (Leather & Footwear) in Ministry of MSME/Addendum Notice",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Addendum Notice: 04 posts of Assistant Director Grade-II (IEDS) (Hosiery) in Ministry of MSME",
+      "organization": "UPSC",
+      "category": "Clerk / Assistant",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/04 posts of Assistant Director Grade-II (IEDS) (Hosiery) in Ministry of MSME/Addendum Notice",
+      "apply": "https://www.upsc.gov.in/whats-new/04 posts of Assistant Director Grade-II (IEDS) (Hosiery) in Ministry of MSME/Addendum Notice",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Addendum Notice: 04 posts of Assistant Director Grade-II (IEDS) (Food) in Ministry of MSME",
+      "organization": "UPSC",
+      "category": "Clerk / Assistant",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/04 posts of Assistant Director Grade-II (IEDS) (Food) in Ministry of MSME/Addendum Notice",
+      "apply": "https://www.upsc.gov.in/whats-new/04 posts of Assistant Director Grade-II (IEDS) (Food) in Ministry of MSME/Addendum Notice",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Addendum Notice: 03 posts of Assistant Director Grade-II (IEDS) (Chemical) in Ministry of MSME",
+      "organization": "UPSC",
+      "category": "Clerk / Assistant",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/03 posts of Assistant Director Grade-II (IEDS) (Chemical) in Ministry of MSME/Addendum Notice",
+      "apply": "https://www.upsc.gov.in/whats-new/03 posts of Assistant Director Grade-II (IEDS) (Chemical) in Ministry of MSME/Addendum Notice",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Addendum Notice: 01 post of Assistant Director Grade-I (IEDS) (Metal Finishing) in Ministry of MSME",
+      "organization": "UPSC",
+      "category": "Clerk / Assistant",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/01 post of Assistant Director Grade-I (IEDS) (Metal Finishing) in Ministry of MSME/Addendum Notice",
+      "apply": "https://www.upsc.gov.in/whats-new/01 post of Assistant Director Grade-I (IEDS) (Metal Finishing) in Ministry of MSME/Addendum Notice",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Addendum Notice: 03 posts of Assistant Director Grade-I (IEDS) (Leather & Footwear) in Ministry of MSME",
+      "organization": "UPSC",
+      "category": "Clerk / Assistant",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/03 posts of Assistant Director Grade-I (IEDS) (Leather & Footwear) in Ministry of MSME/Addendum Notice",
+      "apply": "https://www.upsc.gov.in/whats-new/03 posts of Assistant Director Grade-I (IEDS) (Leather & Footwear) in Ministry of MSME/Addendum Notice",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Addendum Notice: 02 posts of Assistant Director Grade-I (IEDS) (Hosiery) in Ministry of MSME",
+      "organization": "UPSC",
+      "category": "Clerk / Assistant",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/02 posts of Assistant Director Grade-I (IEDS) (Hosiery) in Ministry of MSME/Addendum Notice",
+      "apply": "https://www.upsc.gov.in/whats-new/02 posts of Assistant Director Grade-I (IEDS) (Hosiery) in Ministry of MSME/Addendum Notice",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Addendum Notice: 03 posts of Assistant Director Grade-I (IEDS) (Food) in Ministry of MSME",
+      "organization": "UPSC",
+      "category": "Clerk / Assistant",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/03 posts of Assistant Director Grade-I (IEDS) (Food) in Ministry of MSME/Addendum Notice",
+      "apply": "https://www.upsc.gov.in/whats-new/03 posts of Assistant Director Grade-I (IEDS) (Food) in Ministry of MSME/Addendum Notice",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Addendum Notice: 02 posts of Assistant Director Grade-I (IEDS) (Chemical) in Ministry of MSME",
+      "organization": "UPSC",
+      "category": "Clerk / Assistant",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/02 posts of Assistant Director Grade-I (IEDS) (Chemical) in Ministry of MSME/Addendum Notice",
+      "apply": "https://www.upsc.gov.in/whats-new/02 posts of Assistant Director Grade-I (IEDS) (Chemical) in Ministry of MSME/Addendum Notice",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Press Note: Civil Services (Main) Examination, 2026",
+      "organization": "UPSC",
+      "category": "UPSC / Defence",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/Civil%20Services%20%28Main%29%20Examination%2C%202026/Press%20Note",
+      "apply": "https://www.upsc.gov.in/whats-new/Civil%20Services%20%28Main%29%20Examination%2C%202026/Press%20Note",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "e - Admit Card: Civil Services (Main) Examination, 2026",
+      "organization": "UPSC",
+      "category": "UPSC / Defence",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXAM",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/Civil%20Services%20%28Main%29%20Examination%2C%202026/e%20-%20Admit%20Card",
+      "apply": "https://www.upsc.gov.in/whats-new/Civil%20Services%20%28Main%29%20Examination%2C%202026/e%20-%20Admit%20Card",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Final Result: 03 Posts of Assistant Director (Corporate Law), Ministry of Corporate Affairs",
+      "organization": "UPSC",
+      "category": "Clerk / Assistant",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "RESULT",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/03 Posts of Assistant Director (Corporate Law), Ministry of Corporate Affairs/Final Result",
+      "apply": "https://www.upsc.gov.in/whats-new/03 Posts of Assistant Director (Corporate Law), Ministry of Corporate Affairs/Final Result",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Advertisement No.10 - 2026",
+      "organization": "UPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "ANNOUNCED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/10 - 2026",
+      "apply": "https://www.upsc.gov.in/whats-new/10 - 2026",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Interview Details: 02 Posts of Assistant Director Grade-II (IEDS) (Leather & Footwear), Ministry of MSME",
+      "organization": "UPSC",
+      "category": "Clerk / Assistant",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/02 Posts of Assistant Director Grade-II (IEDS) (Leather & Footwear), Ministry of MSME/Interview Details",
+      "apply": "https://www.upsc.gov.in/whats-new/02 Posts of Assistant Director Grade-II (IEDS) (Leather & Footwear), Ministry of MSME/Interview Details",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Interview Details: 03 Posts of Assistant Director Grade-II (IEDS) (Chemical), Ministry of MSME",
+      "organization": "UPSC",
+      "category": "Clerk / Assistant",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/03 Posts of Assistant Director Grade-II (IEDS) (Chemical), Ministry of MSME/Interview Details",
+      "apply": "https://www.upsc.gov.in/whats-new/03 Posts of Assistant Director Grade-II (IEDS) (Chemical), Ministry of MSME/Interview Details",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Addendum Notice: 32 Posts of Accounts Officer, Administration of Union Territory of Ladakh",
+      "organization": "UPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/32 Posts of Accounts Officer, Administration of Union Territory of Ladakh/Addendum Notice",
+      "apply": "https://www.upsc.gov.in/whats-new/32 Posts of Accounts Officer, Administration of Union Territory of Ladakh/Addendum Notice",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Addendum Notice: 19 Posts of Manager Grade - I - Section Officer, Ministry of Defence",
+      "organization": "UPSC",
+      "category": "UPSC / Defence",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/19 Posts of Manager Grade - I - Section Officer, Ministry of Defence/Addendum Notice",
+      "apply": "https://www.upsc.gov.in/whats-new/19 Posts of Manager Grade - I - Section Officer, Ministry of Defence/Addendum Notice",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Addendum Notice: 08 Posts of Administrative Officer Grade - I, Ministry of Defence",
+      "organization": "UPSC",
+      "category": "UPSC / Defence",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/08 Posts of Administrative Officer Grade - I, Ministry of Defence/Addendum Notice",
+      "apply": "https://www.upsc.gov.in/whats-new/08 Posts of Administrative Officer Grade - I, Ministry of Defence/Addendum Notice",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Final Result: 121 Posts of Operations Officer in DGCA",
+      "organization": "UPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "RESULT",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/121 Posts of Operations Officer in DGCA/Final Result",
+      "apply": "https://www.upsc.gov.in/whats-new/121 Posts of Operations Officer in DGCA/Final Result",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Final Result: 03 Posts of Assistant Director Grade-II (IEDS) (Hosiery), Ministry of MSME",
+      "organization": "UPSC",
+      "category": "Clerk / Assistant",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "RESULT",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/03 Posts of Assistant Director Grade-II (IEDS) (Hosiery), Ministry of MSME/Final Result",
+      "apply": "https://www.upsc.gov.in/whats-new/03 Posts of Assistant Director Grade-II (IEDS) (Hosiery), Ministry of MSME/Final Result",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Examination Time Table: Civil Services (Main) Examination, 2026",
+      "organization": "UPSC",
+      "category": "UPSC / Defence",
+      "qualifications": [
+        "Graduation"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/whats-new/Civil%20Services%20%28Main%29%20Examination%2C%202026/Examination%20Time%20Table",
+      "apply": "https://www.upsc.gov.in/whats-new/Civil%20Services%20%28Main%29%20Examination%2C%202026/Examination%20Time%20Table",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "S.O.-Steno (GD-B-GD-I) LDCE",
+      "organization": "UPSC",
+      "category": "Clerk / Assistant",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/examinations/S.O.-Steno%20%28GD-B-GD-I%29%20LDCE",
+      "apply": "https://www.upsc.gov.in/examinations/S.O.-Steno%20%28GD-B-GD-I%29%20LDCE",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Recruitment Advertisements",
+      "organization": "UPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "ANNOUNCED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/recruitment/recruitment-advertisement",
+      "apply": "https://www.upsc.gov.in/recruitment/recruitment-advertisement",
+      "verified": true,
+      "checked": "2026-08-29"
+    },
+    {
+      "title": "Vacancies in UPSC",
+      "organization": "UPSC",
+      "category": "UPSC / Defence",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/vacancy-circulars",
+      "apply": "https://www.upsc.gov.in/vacancy-circulars",
       "verified": true,
       "checked": "2026-08-29"
     }
