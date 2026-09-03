@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T11:36:48+00:00",
+  "updated_at": "2026-09-03T16:14:52+00:00",
   "today": "2026-09-03",
   "jobs": [
     {
@@ -3312,6 +3312,54 @@
       "apply": "https://www.upsc.gov.in/vacancy-circulars",
       "verified": true,
       "checked": "2026-08-29"
+    },
+    {
+      "title": "APPLY ONLINE (04.09.2026 to 25.09.2026)",
+      "organization": "SBI Careers",
+      "category": "Other Govt",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "UPCOMING",
+      "start": "2026-09-04",
+      "last": "2026-09-25",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-23/apply",
+      "apply": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-23/apply",
+      "verified": true,
+      "checked": "2026-09-03"
+    },
+    {
+      "title": "Engineering Services (Preliminary) Examination, 2027",
+      "organization": "UPSC",
+      "category": "Other Govt",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "EXPECTED",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://www.upsc.gov.in/examinations/Engineering%20Services%20%28Preliminary%29%20Examination%2C%202027",
+      "apply": "https://www.upsc.gov.in/examinations/Engineering%20Services%20%28Preliminary%29%20Examination%2C%202027",
+      "verified": true,
+      "checked": "2026-09-03"
+    },
+    {
+      "title": "IMPORTANT ANNOUNCEMENT REGARDING DOWNLOAD THE ADMIT CARD FOR THE POST OF MISCELLANEOUS SERVICES RECRUITMENT (PRELIMINARY) EXAMINATION, 2024 ADVT. NO. 13/2024",
+      "organization": "WBPSC",
+      "category": "West Bengal Govt",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "RESULT",
+      "start": "",
+      "last": "",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://psc.wb.gov.in/Download?param1=An_20260903195017_Imp_Announcement_Admitcard_MSRE_2024.pdf¶m2=advertisement",
+      "apply": "https://psc.wb.gov.in/Download?param1=An_20260903195017_Imp_Announcement_Admitcard_MSRE_2024.pdf¶m2=advertisement",
+      "verified": true,
+      "checked": "2026-09-03"
     }
   ],
   "coverage_note": "Official-source discovery is broad but not mathematically exhaustive. ACTIVE is only date-derived; always verify the official notice before applying."
