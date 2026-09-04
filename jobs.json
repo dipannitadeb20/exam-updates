@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T08:59:46+00:00",
+  "updated_at": "2026-09-04T13:26:19+00:00",
   "today": "2026-09-04",
   "jobs": [
     {
@@ -3360,6 +3360,22 @@
       "apply": "https://psc.wb.gov.in/Download?param1=An_20260903195017_Imp_Announcement_Admitcard_MSRE_2024.pdf¶m2=advertisement",
       "verified": true,
       "checked": "2026-09-03"
+    },
+    {
+      "title": "APPLY ONLINE (04.09.2026 to 24.09.2026)",
+      "organization": "SBI Careers",
+      "category": "Other Govt",
+      "qualifications": [
+        "Post-wise"
+      ],
+      "status": "ACTIVE",
+      "start": "2026-09-04",
+      "last": "2026-09-24",
+      "note": "Discovered from an official source. Read the linked notice for exact eligibility, vacancy, fee and dates.",
+      "source": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-21/apply",
+      "apply": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-21/apply",
+      "verified": true,
+      "checked": "2026-09-04"
     }
   ],
   "coverage_note": "Official-source discovery is broad but not mathematically exhaustive. ACTIVE is only date-derived; always verify the official notice before applying."
